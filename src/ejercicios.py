@@ -169,3 +169,4 @@ if __name__ == "__main__":
 
 
 #ESTE texto es un comentario para verificar un error en los commits de git
+# NOTA: a la hora de subir los archivos a git no me queria dejar guardar, los commits se realizaban pero cuando iba hacer el "push" no seveian reflejados en el repositorio remoto 
