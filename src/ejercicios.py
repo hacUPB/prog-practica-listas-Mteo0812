@@ -7,11 +7,7 @@ def suma_matriz(matriz):
         for j in range(col):
             acumulador += matriz[i][j]
     return acumulador
-    """
-    Recibe una lista de listas y devuelve la suma de todos sus elementos.
-    Incluir el código aquí para sumar los elementos de la matriz.
-    """
-    pass
+    
 
 # Ejercicio 2: Encontrar el valor máximo en una matriz
 def maximo_matriz(matriz):
